@@ -8,7 +8,7 @@ public class Question {
 	public Question(String prompt, String answer, int points) {
 		this.prompt = prompt;
 		this.answer = answer;
-		this.points = points;
+		this.points =points;
 	}
 	
 	public void displayPrompt() {
